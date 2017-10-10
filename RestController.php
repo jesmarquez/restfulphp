@@ -1,4 +1,5 @@
 <?php
+//Ejm de http://phppot.com/php/php-restful-web-service/
 require_once("MobileRestHandler.php");
 		
 $view = "";
